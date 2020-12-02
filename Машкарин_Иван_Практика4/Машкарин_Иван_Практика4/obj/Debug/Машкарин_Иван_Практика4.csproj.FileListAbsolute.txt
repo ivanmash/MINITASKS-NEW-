@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.exe.config
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.pdb
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.pdb
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.exe.config
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.exe
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\bin\Debug\Машкарин_Иван_Практика4.pdb
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.exe
+C:\Users\HP\Documents\GitHub\Minitask\Minitasks-master\Машкарин_Иван_Практика4\Машкарин_Иван_Практика4\obj\Debug\Машкарин_Иван_Практика4.pdb

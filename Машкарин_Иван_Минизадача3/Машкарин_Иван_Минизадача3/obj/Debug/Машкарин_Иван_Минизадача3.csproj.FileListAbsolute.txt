@@ -1,0 +1,20 @@
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.Properties.Resources.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.exe.config
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.pdb
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.Form1.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.pdb
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.exe.config
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.exe
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\bin\Debug\Машкарин_Иван_Минизадача3.pdb
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.Form1.resources
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.exe
+C:\Users\HP\Documents\GitHub\MINITASKS-NEW-\Машкарин_Иван_Минизадача3\Машкарин_Иван_Минизадача3\obj\Debug\Машкарин_Иван_Минизадача3.pdb
