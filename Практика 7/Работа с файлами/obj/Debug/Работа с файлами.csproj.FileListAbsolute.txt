@@ -1,0 +1,12 @@
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\bin\Debug\Работа с файлами.exe.config
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\bin\Debug\Работа с файлами.exe
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\bin\Debug\Работа с файлами.pdb
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа с файлами.csprojAssemblyReference.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа_с_файлами.Form1.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа_с_файлами.Form2.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа_с_файлами.Form3.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа_с_файлами.Properties.Resources.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа с файлами.csproj.GenerateResource.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа с файлами.csproj.CoreCompileInputs.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа с файлами.exe
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 7\Работа с файлами\obj\Debug\Работа с файлами.pdb

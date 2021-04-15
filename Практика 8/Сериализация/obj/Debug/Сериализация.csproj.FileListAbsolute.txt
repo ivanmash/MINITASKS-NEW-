@@ -1,0 +1,11 @@
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\bin\Debug\Сериализация.exe.config
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\bin\Debug\Сериализация.exe
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\bin\Debug\Сериализация.pdb
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.csprojAssemblyReference.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.Form1.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.Form2.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.Properties.Resources.resources
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.csproj.GenerateResource.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.csproj.CoreCompileInputs.cache
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.exe
+C:\Users\ivmas\OneDrive\Documents\Проекты Вани\Проекты по программированию 10.5 Visual Studio C#\Практика 8\Сериализация\obj\Debug\Сериализация.pdb
