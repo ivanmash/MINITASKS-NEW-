@@ -6,10 +6,15 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+
 
 namespace Мнизадача_4_Машкарин_Иван
 {
-    abstract class Вершины
+    [Serializable]
+    public abstract class Вершины
     {
         protected static int R;
         protected int X;
@@ -18,9 +23,35 @@ namespace Мнизадача_4_Машкарин_Иван
         protected int sdvigy;
         protected bool beingDragged;
         public bool in_prov;
+        public static Color FigColor;
         public abstract void DrawFigure(Graphics graf);
-        public abstract int Radius { set; }
+        public static int Radius { set { R = value; } get { return R; } }
         public bool InsideRrov { get; set;}
+        public static Color Changecolor
+        {
+            set
+            {
+                FigColor = value;
+            }
+            get
+            {
+                return FigColor;
+            }
+        }
+        public void OnTick(bool flag)
+        {
+            Random rand = new Random();
+            if (flag)
+            {
+                X += rand.Next(0,5);
+                Y += rand.Next(0,5);
+            }
+            else
+            {
+                X -= rand.Next(0, 5);
+                Y -= rand.Next(0, 5);
+            }
+        }
         public static bool InFigure(int x, int y, List<Вершины> polygons)
         {
                 double d;
@@ -95,9 +126,15 @@ namespace Мнизадача_4_Машкарин_Иван
             sdvigy = 0;
             in_prov = false;
         }
+        private Вершины (Вершины COPIES)
+        {
+            X = COPIES.X;
+            Y = COPIES.Y;
+        }
         static Вершины()
         {
-            R = 40;
+            R = 20;
+            FigColor = Color.Black;
         }
         public int SetCoorX
         {
@@ -111,18 +148,19 @@ namespace Мнизадача_4_Машкарин_Иван
         }
         public abstract bool CheckArea(int x, int y);
     }
+    [Serializable]
     class Квадрат : Вершины
     {
         public Квадрат(int x, int y) : base(x, y) { }
 
         public override void DrawFigure(Graphics graf)
         {
-            graf.FillRectangle(new SolidBrush(Color.Yellow), X - R / 2, Y - R / 2, R, R);
+            graf.FillRectangle(new SolidBrush(FigColor), X - R / 2, Y - R / 2, R, R);
         }
-        public override int Radius
-        {
-            set { R = value; }
-        }
+        //public override int Radius
+        //{
+        //    set { R = value; }
+        //}
         public override bool CheckArea(int x, int y)
         {
             if (X + R / 2 > x && X - R / 2 < x && Y + R / 2 > y && Y - R / 2 < y)
@@ -132,6 +170,7 @@ namespace Мнизадача_4_Машкарин_Иван
             else return false;
         }
     }
+    [Serializable]
     class Треугольник : Вершины
     {
         public Треугольник(int x, int y) : base(x, y) { }
@@ -141,12 +180,12 @@ namespace Мнизадача_4_Машкарин_Иван
             p3[0] = new Point(X + R / 2 - R / 2, Y - R / 2);
             p3[1] = new Point(X - R / 2, Y + R - R / 2);
             p3[2] = new Point(X + R - R / 2, Y + R - R / 2);
-            graf.FillPolygon(new SolidBrush(Color.Yellow), p3);
+            graf.FillPolygon(new SolidBrush(FigColor), p3);
         }
-        public override int Radius
-        {
-            set { R = value; }
-        }
+        //public override int Radius
+        //{
+        //    set { R = value; }
+        //}
         public override bool CheckArea(int x, int y)
         {
             int a = (X + R / 2 - R / 2 - x) * (Y + R - R / 2 - (Y - R / 2)) - (X - R / 2 - (X + R / 2 - R / 2)) * (Y - R / 2 - y);
@@ -160,17 +199,18 @@ namespace Мнизадача_4_Машкарин_Иван
             else return false;
         }
     }
+    [Serializable]
     class Круг : Вершины
     {
         public Круг(int x, int y) : base(x, y) { }
         public override void DrawFigure(Graphics graf)
         {
-            graf.FillEllipse(new SolidBrush(Color.Yellow), X - R / 2, Y - R / 2, R, R);
+            graf.FillEllipse(new SolidBrush(FigColor), X - R / 2, Y - R / 2, R, R);
         }
-        public override int Radius
-        {
-            set { R = value; }
-        }
+        //public override int Radius
+        //{
+        //    set { R = value; }
+        //}
         public override bool CheckArea(int x, int y)
         {
             if (Math.Pow(X - x, 2) + Math.Pow(Y - y, 2) <= Math.Pow(R / 2, 2))
